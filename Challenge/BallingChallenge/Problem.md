@@ -15,3 +15,4 @@ If on his first try in the frame he knocks down all the pins, this is called a â
 If he gets a spare or strike in the last (tenth) frame, the bowler gets to throw one or two more bonus balls, respectively. These bonus throws are taken as part of the same turn. If the bonus throws knock down all the pins, the process does not repeat: the bonus throws are only used to calculate the score of the final frame.
 The game score is the total of all frame scores.
 
+#Note:
