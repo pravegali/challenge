@@ -1,4 +1,4 @@
-﻿This Kata is about implementing a simple tennis game.
+﻿This Challenge is about implementing a simple tennis game.
 
 The scoring system is rather simple:
 
@@ -18,4 +18,4 @@ The scoring system is rather simple:
 
 
 Objective :
-A program which will either give us the score or the winner , by taking in the winner of the point. 
+A program which will either give us the score or the winner of the game , by taking in the winner of the point. 
